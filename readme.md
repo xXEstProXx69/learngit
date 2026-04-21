@@ -1,10 +1,7 @@
 # Learngit
 - main line 1
 - main line 2
-- feature line 1
 - main line 3
-- feature line 2    
-- main line 4
-- feature line 3
-- main line 5
-- main line 6
+- main line 3
+- feature line 1
+- feature line 2 
